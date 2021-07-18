@@ -1,6 +1,10 @@
 /* fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+
 @font-face {
-  /*font-family: 'Quicksand';*/
+  font-family: 'Quicksand', sans-serif;
   /*src: url('/Quicksand-Light.woff2') format('woff2'),*/
   /*url('/Quicksand-Light.woff') format('woff');*/
   font-weight: 300;
@@ -12,7 +16,7 @@ body, ul, h1, h2, h3, p, button, a, div{
   margin: 0;
   padding: 0;
   color: white;
-  /*font-family: 'Quicksand';*/
+  font-family: 'Quicksand', sans-serif;
   letter-spacing: 2px;
   list-style-type: none;
   text-decoration: none;
